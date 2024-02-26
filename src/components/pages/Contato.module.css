@@ -1,0 +1,15 @@
+.halfpage {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    flex: 1 1 50%;
+    padding: 20px;
+}
+
+@media (max-width: 600px) {
+    .card {
+        flex-basis: 100%;
+    }
+}

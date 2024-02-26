@@ -1,4 +1,4 @@
-import {  FaLinkedin, FaGithub, FaWhatsapp, FaInstagram, FaAirbnb } from 'react-icons/fa';
+import { FaWhatsapp, FaInstagram, FaAirbnb } from 'react-icons/fa';
 import styles from './Footer.module.css';
 
 function Footer() {
